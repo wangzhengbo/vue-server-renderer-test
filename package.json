@@ -1,0 +1,30 @@
+{
+  "name": "vue-server-renderer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhengbo/vue-server-renderer-test.git"
+  },
+  "keywords": [
+    "vue",
+    "ssr",
+    "server-render",
+    "server-side-render"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangzhengbo/vue-server-renderer-test/issues"
+  },
+  "homepage": "https://github.com/wangzhengbo/vue-server-renderer-test#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "vue": "^2.4.4",
+    "vue-server-renderer": "^2.4.4"
+  }
+}
