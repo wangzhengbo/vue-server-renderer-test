@@ -25,6 +25,7 @@
   "dependencies": {
     "express": "^4.16.1",
     "vue": "^2.4.4",
+    "vue-no-ssr": "^0.2.0",
     "vue-server-renderer": "^2.4.4"
   }
 }
